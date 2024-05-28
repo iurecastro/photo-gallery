@@ -7,7 +7,6 @@ This is a photo gallery application built using React and Ionic. It allows users
 ### Main Components
 
 - **Tab2**: Main component where the photo-taking functionality is implemented.
-- **ExploreContainer**: Additional component (not used in the current code).
 
 ### Hooks
 
